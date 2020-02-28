@@ -13,4 +13,12 @@
   @apply text-gray-400 bg-gray-800;
 }
 
+.nav-icon {
+  @apply absolute top-0 right-0 w-10 mr-4 mt-1 text-gray-600 stroke-current 
+}
+
+.nav-icon:hover {
+  @apply text-gray-400;
+}
+
 @tailwind utilities;
