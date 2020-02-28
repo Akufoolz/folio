@@ -6,7 +6,7 @@
   "scripts": {
     "build": "postcss src/styles.css -o public/styles.css",
     "watch": "postcss src/styles.css -o public/styles.css --watch",
-    "dev": "live-server public && npm run watch"
+    "dev": "live-server public"
   },
   "repository": {
     "type": "git",

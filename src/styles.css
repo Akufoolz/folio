@@ -6,7 +6,11 @@
 }
 
 .nav-link:hover {
-  @apply text-gray-400 border-teal-300;
+  @apply text-gray-400 border-indigo-400;
+}
+
+.nav-active {
+  @apply text-gray-400 bg-gray-800;
 }
 
 @tailwind utilities;

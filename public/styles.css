@@ -634,7 +634,12 @@ video {
 
 .nav-link:hover {
   color: #cbd5e0;
-  border-color: #81e6d9;
+  border-color: #7f9cf5;
+}
+
+.nav-active {
+  color: #cbd5e0;
+  background-color: #2d3748;
 }
 
 .sr-only {
