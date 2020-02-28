@@ -623,6 +623,17 @@ video {
   }
 }
 
+.nav-link {
+  padding: 1rem;
+  margin-top: -1px;
+  font-size: 1.125rem;
+  font-weight: 600;
+  color: #718096;
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-color: #2d3748;
+}
+
 .sr-only {
   position: absolute;
   width: 1px;
