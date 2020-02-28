@@ -2,7 +2,11 @@
 @tailwind components;
 
 .nav-link {
-  @apply p-4 -mt-px text-lg font-semibold text-gray-600 border-t border-b border-gray-800;
+  @apply p-4 text-lg font-semibold text-gray-600 border-b border-gray-800;
+}
+
+.nav-link:hover {
+  @apply text-gray-400 border-teal-300;
 }
 
 @tailwind utilities;
