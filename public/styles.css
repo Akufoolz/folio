@@ -647,8 +647,6 @@ video {
   top: 0;
   right: 0;
   width: 2.5rem;
-  margin-right: 1rem;
-  margin-top: 0.25rem;
   color: #718096;
   stroke: currentColor;
 }

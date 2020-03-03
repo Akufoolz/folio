@@ -19,12 +19,11 @@
     "url": "https://github.com/akufoolz/folio/issues"
   },
   "homepage": "https://github.com/akufoolz/folio#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "autoprefixer": "^9.7.4",
     "postcss-cli": "^7.1.0",
+    "prettier": "^1.19.1",
     "tailwindcss": "^1.2.0"
-  },
-  "devDependencies": {
-    "prettier": "^1.19.1"
   }
 }
