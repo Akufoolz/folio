@@ -650,7 +650,7 @@ video {
   margin-right: 1rem;
   margin-top: 0.25rem;
   color: #718096;
-  stroke: currentColor
+  stroke: currentColor;
 }
 
 .nav-icon:hover {
